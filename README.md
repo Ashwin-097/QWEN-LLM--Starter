@@ -23,7 +23,7 @@ cd my-workspace-server
 
 # Install dependencies
 pip install -r requirements.txt
-ini
+
 # Configure config.ini
 [SERVER]
 host = 0.0.0.0
