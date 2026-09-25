@@ -38,7 +38,7 @@ hf download <model-repo> --local-dir ./models/<model-name>
 ## Setup
 
 # Clone the repo
-git clone https://github.com/yourusername/my-workspace-server.git
+git clone https://github.com/Ashwin-097/QWEN-LLM--Starter.git
 cd my-workspace-server
 
 # Install dependencies
