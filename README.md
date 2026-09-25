@@ -6,6 +6,9 @@ A lightweight FastAPI server that provides chat endpoints with **workspace isola
 
 <img width="1107" height="509" alt="image" src="https://github.com/user-attachments/assets/4ab44f03-167e-42ab-ace2-da058cadaf60" />
 
+Eclipse 
+<img width="1231" height="267" alt="image" src="https://github.com/user-attachments/assets/677f56c9-4813-45d9-bd90-46cce9f25301" />
+
 ---
 
 ## Features
