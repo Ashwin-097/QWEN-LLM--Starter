@@ -39,7 +39,7 @@ hf download <model-repo> --local-dir ./models/<model-name>
 
 # Clone the repo
 git clone https://github.com/Ashwin-097/QWEN-LLM--Starter.git
-cd my-workspace-server
+cd QWEN-LLM--Starter
 
 # Install dependencies
 pip install -r requirements.txt
