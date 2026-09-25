@@ -20,9 +20,14 @@ Eclipse
 
 ---
 
+## NOTE
+Do not use in potato laptop or PC without having Nvidia RTX20+ ( 8gb + )
+
+---
+
 ## Model Setup
 
-This project requires a Hugging Face model to be downloaded locally before use.
+This project requires a Hugging Face model to be downloaded locally before use. ( Qwen 3 + )
 
 ### Downloading the model
 Use the Hugging Face CLI to pull the model into your local directory:
