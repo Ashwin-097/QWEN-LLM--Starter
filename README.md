@@ -4,6 +4,8 @@
 
 A lightweight FastAPI server that provides chat endpoints with **workspace isolation** and optional **memory persistence**. Designed to integrate with local LLMs and mimic OpenAI-style `/chat/completions` APIs.
 
+<img width="1107" height="509" alt="image" src="https://github.com/user-attachments/assets/4ab44f03-167e-42ab-ace2-da058cadaf60" />
+
 ---
 
 ## Features
