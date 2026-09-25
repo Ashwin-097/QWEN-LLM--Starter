@@ -21,14 +21,12 @@ This project requires a Hugging Face model to be downloaded locally before use.
 
 ### Downloading the model
 Use the Hugging Face CLI to pull the model into your local directory:
-
-```bash
 hf download <model-repo> --local-dir ./models/<model-name>
 
 ---
 
 ## Setup
-```bash
+
 # Clone the repo
 git clone https://github.com/yourusername/my-workspace-server.git
 cd my-workspace-server
