@@ -1,4 +1,7 @@
-# QWEN-LLM--Starter
+# QWEN-LLM--Starter ( Discontinued)
+
+Transformer lib seems to be slower than llama CPP as per my experience to load 4B + Models , so stopping this , will make something better.
+
 
 # Workspace-enabled FastAPI Server
 
