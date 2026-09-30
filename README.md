@@ -1,7 +1,7 @@
 # QWEN-LLM--Starter ( Discontinued)
 
 Transformer lib seems to be slower than llama CPP as per my experience to load 4B + Models , so stopping this , will make something better.
-
+Model used in this project - Qwen/Qwen3-VL-4B-Instruct
 
 # Workspace-enabled FastAPI Server
 
